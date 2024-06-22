@@ -1,0 +1,47 @@
+body {
+}
+
+.nav_main {
+  background-color: #27005d !important;
+  color: white !important;
+}
+
+.srch_btn {
+  background-color: #9400ff !important;
+  color: white !important;
+  border: none !important;
+}
+
+.main {
+  margin: auto;
+  width: 30%;
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: #5a72a0; */
+  height: 70vh;
+  margin-top: 10vh;
+}
+
+.city {
+  /* background-color: #27005d; */
+  background: url(./images/bg6.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 60%;
+  color: white;
+  font-size: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 8px;
+}
+
+.data {
+  padding: 8px;
+  color: rgb(92, 91, 91);
+  border: 2px solid black;
+  border-top: none;
+}
